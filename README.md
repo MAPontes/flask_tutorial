@@ -1,2 +1,2 @@
-# flask_tutorial
-App from Flask Tutorial
+# Flask Tutorial App
+App from Flask Tutorial plus deployment on AWS
